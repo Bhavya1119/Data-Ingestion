@@ -1,2 +1,3 @@
-# Data-Ingestion
-Backend Application : Stores Player Data to MySQL Database via APIs , Fetches Database data and creates JAVA Objects , serializes objects to JSON strings, pushes to Kafka Topic , Consumes from Kafka Topic via offsets
+# Data Ingestion- MySQL
+
+Pushes data to Mysql database, ingests MySQL db data , creates objects and convert it into json , finally publishes data to kafka topic and consumes from topic
